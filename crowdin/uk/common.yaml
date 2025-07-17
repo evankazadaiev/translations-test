@@ -110,5 +110,5 @@ date:
   year: "Рік"
   format: "DD.MM.YYYY"
 procedure:
-  label: Procedure
-  patient: Procedure Patient
+  label:
+  patient:
