@@ -1,16 +1,15 @@
-# de.yaml
+# en.yaml
 menu:
   home: "Startseite"
   settings: "Einstellungen"
   profile: "Profil"
-  dashboard: "Dashboard"
+  dashboard: "Übersicht"
   reports: "Berichte"
   users: "Benutzer"
   analytics: "Analysen"
   help: "Hilfe"
   logout: "Abmelden"
   login: "Anmelden"
-
 button:
   save: "Speichern"
   cancel: "Abbrechen"
@@ -22,7 +21,6 @@ button:
   download: "Herunterladen"
   search: "Suchen"
   refresh: "Aktualisieren"
-
 notif:
   welcome: "Willkommen!"
   goodbye: "Auf Wiedersehen!"
@@ -34,7 +32,6 @@ notif:
   session_timeout: "Ihre Sitzung ist abgelaufen."
   range_error: "Wert außerhalb des zulässigen Bereichs."
   insufficient_permissions: "Sie haben nicht die erforderlichen Berechtigungen."
-
 error:
   required_field: "Dieses Feld ist erforderlich."
   invalid_email: "Bitte geben Sie eine gültige E-Mail-Adresse ein."
@@ -46,7 +43,6 @@ error:
   server: "Serverfehler."
   timeout: "Anfragezeitüberschreitung."
   unknown: "Unbekannter Fehler."
-
 label:
   username: "Benutzername"
   password: "Passwort"
@@ -58,7 +54,6 @@ label:
   city: "Stadt"
   country: "Land"
   zip_code: "PLZ"
-
 placeholder:
   search: "Suchen…"
   username: "Geben Sie Ihren Benutzernamen ein"
@@ -70,7 +65,6 @@ placeholder:
   phone: "Geben Sie Ihre Telefonnummer ein"
   city: "Geben Sie Ihre Stadt ein"
   zip_code: "Geben Sie Ihre PLZ ein"
-
 message:
   account_created: "Ihr Konto wurde erstellt."
   password_changed: "Ihr Passwort wurde geändert."
@@ -82,7 +76,6 @@ message:
   download_complete: "Download abgeschlossen."
   no_results: "Keine Ergebnisse gefunden."
   access_denied: "Zugriff verweigert."
-
 settings:
   language: "Sprache"
   theme: "Thema"
@@ -94,7 +87,6 @@ settings:
   sound: "Ton"
   timezone: "Zeitzone"
   date_format: "Datumsformat"
-
 profile:
   title: "Profil"
   edit: "Profil bearbeiten"
@@ -106,7 +98,6 @@ profile:
   activity: "Letzte Aktivität"
   preferences: "Einstellungen"
   connections: "Verbindungen"
-
 date:
   today: "Heute"
   yesterday: "Gestern"
@@ -118,3 +109,6 @@ date:
   month: "Monat"
   year: "Jahr"
   format: "DD.MM.YYYY"
+procedure:
+  label: Procedure
+  patient: Procedure Patient

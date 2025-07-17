@@ -1,4 +1,4 @@
-# ru.yaml
+# en.yaml
 menu:
   home: "Главная"
   settings: "Настройки"
@@ -10,7 +10,6 @@ menu:
   help: "Помощь"
   logout: "Выйти"
   login: "Войти"
-
 button:
   save: "Сохранить"
   cancel: "Отменить"
@@ -22,7 +21,6 @@ button:
   download: "Скачать"
   search: "Поиск"
   refresh: "Обновить"
-
 notif:
   welcome: "Добро пожаловать!"
   goodbye: "До свидания!"
@@ -34,7 +32,6 @@ notif:
   session_timeout: "Сессия истекла."
   range_error: "Значение вне допустимого диапазона."
   insufficient_permissions: "Недостаточно прав."
-
 error:
   required_field: "Это поле обязательно."
   invalid_email: "Введите корректный адрес электронной почты."
@@ -46,7 +43,6 @@ error:
   server: "Ошибка сервера."
   timeout: "Превышено время ожидания."
   unknown: "Неизвестная ошибка."
-
 label:
   username: "Имя пользователя"
   password: "Пароль"
@@ -58,7 +54,6 @@ label:
   city: "Город"
   country: "Страна"
   zip_code: "Индекс"
-
 placeholder:
   search: "Поиск..."
   username: "Введите имя пользователя"
@@ -70,7 +65,6 @@ placeholder:
   phone: "Введите номер телефона"
   city: "Введите город"
   zip_code: "Введите индекс"
-
 message:
   account_created: "Ваш аккаунт создан."
   password_changed: "Пароль изменён."
@@ -82,7 +76,6 @@ message:
   download_complete: "Скачивание завершено."
   no_results: "Результаты не найдены."
   access_denied: "Доступ запрещён."
-
 settings:
   language: "Язык"
   theme: "Тема"
@@ -94,7 +87,6 @@ settings:
   sound: "Звук"
   timezone: "Часовой пояс"
   date_format: "Формат даты"
-
 profile:
   title: "Профиль"
   edit: "Редактировать профиль"
@@ -106,7 +98,6 @@ profile:
   activity: "Активность"
   preferences: "Настройки"
   connections: "Контакты"
-
 date:
   today: "Сегодня"
   yesterday: "Вчера"
@@ -118,3 +109,6 @@ date:
   month: "Месяц"
   year: "Год"
   format: "DD.MM.YYYY"
+procedure:
+  label: Procedure
+  patient: Procedure Patient
